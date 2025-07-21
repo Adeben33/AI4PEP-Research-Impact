@@ -159,3 +159,751 @@
 2025-07-21 15:20:32,177 - INFO - Giving up this session.
 2025-07-21 15:20:49,035 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
 2025-07-21 15:20:49,035 - INFO - Giving up this session.
+2025-07-21 15:21:05,162 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:21:05,163 - INFO - Giving up this session.
+2025-07-21 15:21:05,214 - WARNING - Retry 1: Failed to fetch or fill author 4UR2BucAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 15:21:15,220 - INFO - Getting https://scholar.google.com/citations?hl=en&user=4UR2BucAAAAJ&pagesize=100
+2025-07-21 15:21:16,544 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:21:16,544 - INFO - Retrying with a new session.
+2025-07-21 15:21:22,802 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:21:22,803 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:21:34,643 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:21:34,643 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:21:51,005 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:21:51,005 - INFO - Giving up this session.
+2025-07-21 15:22:07,598 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:22:07,599 - INFO - Giving up this session.
+2025-07-21 15:22:24,176 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:22:24,176 - INFO - Giving up this session.
+2025-07-21 15:22:40,634 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:22:40,634 - INFO - Giving up this session.
+2025-07-21 15:22:40,696 - INFO - Getting https://scholar.google.com/citations?hl=en&user=4UR2BucAAAAJ&pagesize=100
+2025-07-21 15:22:42,120 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:22:42,121 - INFO - Retrying with a new session.
+2025-07-21 15:22:48,672 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:22:48,672 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:23:00,456 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:23:00,456 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:23:17,472 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:23:17,473 - INFO - Giving up this session.
+2025-07-21 15:23:34,441 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:23:34,441 - INFO - Giving up this session.
+2025-07-21 15:23:51,378 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:23:51,378 - INFO - Giving up this session.
+2025-07-21 15:24:07,921 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:24:07,921 - INFO - Giving up this session.
+2025-07-21 15:24:07,993 - WARNING - Retry 2: Failed to fetch or fill author 4UR2BucAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 15:24:17,998 - INFO - Getting https://scholar.google.com/citations?hl=en&user=4UR2BucAAAAJ&pagesize=100
+2025-07-21 15:24:19,858 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:24:19,859 - INFO - Retrying with a new session.
+2025-07-21 15:24:26,487 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:24:26,488 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:24:37,845 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:24:37,845 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:24:54,035 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:24:54,035 - INFO - Giving up this session.
+2025-07-21 15:25:10,912 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:25:10,912 - INFO - Giving up this session.
+2025-07-21 15:25:27,871 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:25:27,872 - INFO - Giving up this session.
+2025-07-21 15:25:44,497 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:25:44,497 - INFO - Giving up this session.
+2025-07-21 15:25:44,550 - INFO - Getting https://scholar.google.com/citations?hl=en&user=4UR2BucAAAAJ&pagesize=100
+2025-07-21 15:25:45,924 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:25:45,925 - INFO - Retrying with a new session.
+2025-07-21 15:25:52,934 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:25:52,935 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:26:04,287 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:26:04,287 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:26:21,327 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:26:21,327 - INFO - Giving up this session.
+2025-07-21 15:26:37,591 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:26:37,591 - INFO - Giving up this session.
+2025-07-21 15:26:53,992 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:26:53,992 - INFO - Giving up this session.
+2025-07-21 15:27:10,753 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:27:10,754 - INFO - Giving up this session.
+2025-07-21 15:27:10,818 - WARNING - Retry 3: Failed to fetch or fill author 4UR2BucAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 15:27:20,823 - ERROR - Failed to retrieve author profile for Denis Nkweteyim
+2025-07-21 15:27:20,823 - INFO - Getting https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100
+2025-07-21 15:27:22,304 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:27:22,305 - INFO - Retrying with a new session.
+2025-07-21 15:27:29,060 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:27:29,062 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:27:40,808 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:27:40,808 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:27:56,945 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:27:56,946 - INFO - Giving up this session.
+2025-07-21 15:28:13,405 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:28:13,406 - INFO - Giving up this session.
+2025-07-21 15:28:29,546 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:28:29,547 - INFO - Giving up this session.
+2025-07-21 15:28:46,145 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:28:46,146 - INFO - Giving up this session.
+2025-07-21 15:28:46,209 - INFO - Getting https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100
+2025-07-21 15:28:48,201 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:28:48,202 - INFO - Retrying with a new session.
+2025-07-21 15:28:54,519 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:28:54,519 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:29:06,047 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:29:06,048 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:29:22,449 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:29:22,450 - INFO - Giving up this session.
+2025-07-21 15:29:39,154 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:29:39,155 - INFO - Giving up this session.
+2025-07-21 15:29:56,169 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:29:56,170 - INFO - Giving up this session.
+2025-07-21 15:30:12,664 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:30:12,665 - INFO - Giving up this session.
+2025-07-21 15:30:12,728 - WARNING - Retry 1: Failed to fetch or fill author bNK6lMoAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 15:30:22,734 - INFO - Getting https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100
+2025-07-21 15:30:24,186 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:30:24,187 - INFO - Retrying with a new session.
+2025-07-21 15:30:31,076 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:30:31,076 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:30:42,309 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:30:42,309 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:30:59,015 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:30:59,015 - INFO - Giving up this session.
+2025-07-21 15:31:16,106 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:31:16,106 - INFO - Giving up this session.
+2025-07-21 15:31:32,733 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:31:32,733 - INFO - Giving up this session.
+2025-07-21 15:31:49,310 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:31:49,310 - INFO - Giving up this session.
+2025-07-21 15:31:49,377 - INFO - Getting https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100
+2025-07-21 15:31:50,569 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:31:50,570 - INFO - Retrying with a new session.
+2025-07-21 15:31:56,976 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:31:56,977 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:32:08,659 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:32:08,659 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:32:24,790 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:32:24,790 - INFO - Giving up this session.
+2025-07-21 15:32:41,872 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:32:41,873 - INFO - Giving up this session.
+2025-07-21 15:32:58,925 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:32:58,925 - INFO - Giving up this session.
+2025-07-21 15:33:15,451 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:33:15,451 - INFO - Giving up this session.
+2025-07-21 15:33:15,517 - WARNING - Retry 2: Failed to fetch or fill author bNK6lMoAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 15:33:25,523 - INFO - Getting https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100
+2025-07-21 15:33:27,315 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:33:27,316 - INFO - Retrying with a new session.
+2025-07-21 15:33:34,010 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:33:34,010 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:33:45,821 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:33:45,822 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:34:01,995 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:34:01,995 - INFO - Giving up this session.
+2025-07-21 15:34:18,152 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:34:18,153 - INFO - Giving up this session.
+2025-07-21 15:34:34,289 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:34:34,289 - INFO - Giving up this session.
+2025-07-21 15:34:50,797 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:34:50,798 - INFO - Giving up this session.
+2025-07-21 15:34:50,864 - INFO - Getting https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100
+2025-07-21 15:34:52,575 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:34:52,576 - INFO - Retrying with a new session.
+2025-07-21 15:34:58,813 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:34:58,813 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:35:09,922 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:35:09,922 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:35:26,174 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:35:26,174 - INFO - Giving up this session.
+2025-07-21 15:35:42,775 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:35:42,775 - INFO - Giving up this session.
+2025-07-21 15:35:59,145 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:35:59,146 - INFO - Giving up this session.
+2025-07-21 15:36:16,202 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:36:16,203 - INFO - Giving up this session.
+2025-07-21 15:36:16,273 - WARNING - Retry 3: Failed to fetch or fill author bNK6lMoAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 15:36:26,278 - ERROR - Failed to retrieve author profile for Gelan Ayana
+2025-07-21 15:36:26,278 - INFO - Getting https://scholar.google.com/citations?hl=en&user=de6nT0EAAAAJ&pagesize=100
+2025-07-21 15:36:28,016 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:36:28,017 - INFO - Retrying with a new session.
+2025-07-21 15:36:34,356 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:36:34,356 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:36:45,799 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:36:45,800 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:37:02,118 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:37:02,119 - INFO - Giving up this session.
+2025-07-21 15:37:19,033 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:37:19,033 - INFO - Giving up this session.
+2025-07-21 15:37:35,775 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:37:35,777 - INFO - Giving up this session.
+2025-07-21 15:37:52,546 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:37:52,546 - INFO - Giving up this session.
+2025-07-21 15:37:52,610 - INFO - Getting https://scholar.google.com/citations?hl=en&user=de6nT0EAAAAJ&pagesize=100
+2025-07-21 15:37:54,346 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:37:54,347 - INFO - Retrying with a new session.
+2025-07-21 15:38:01,253 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:38:01,254 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:38:12,547 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:38:12,548 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:38:29,136 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:38:29,139 - INFO - Giving up this session.
+2025-07-21 15:38:45,266 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:38:45,266 - INFO - Giving up this session.
+2025-07-21 15:39:01,867 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:39:01,869 - INFO - Giving up this session.
+2025-07-21 15:39:18,070 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:39:18,071 - INFO - Giving up this session.
+2025-07-21 15:39:18,134 - WARNING - Retry 1: Failed to fetch or fill author de6nT0EAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 15:39:28,140 - INFO - Getting https://scholar.google.com/citations?hl=en&user=de6nT0EAAAAJ&pagesize=100
+2025-07-21 15:39:29,924 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:39:29,924 - INFO - Retrying with a new session.
+2025-07-21 15:39:36,833 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:39:36,834 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:39:48,327 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:39:48,328 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:40:04,497 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:40:04,499 - INFO - Giving up this session.
+2025-07-21 15:40:21,532 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:40:21,533 - INFO - Giving up this session.
+2025-07-21 15:40:38,106 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:40:38,106 - INFO - Giving up this session.
+2025-07-21 15:40:55,068 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:40:55,069 - INFO - Giving up this session.
+2025-07-21 15:40:55,133 - INFO - Getting https://scholar.google.com/citations?hl=en&user=de6nT0EAAAAJ&pagesize=100
+2025-07-21 15:40:56,319 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:40:56,320 - INFO - Retrying with a new session.
+2025-07-21 15:41:03,162 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:41:03,162 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:41:14,980 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:41:14,981 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:41:31,599 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:41:31,600 - INFO - Giving up this session.
+2025-07-21 16:16:06,790 - INFO - Exception ConnectError while fetching page: ('[Errno 65] No route to host',)
+2025-07-21 16:16:06,790 - INFO - Retrying with a new session.
+2025-07-21 16:16:08,478 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 16:16:08,478 - INFO - Retrying with a new session.
+2025-07-21 16:16:10,308 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 16:16:10,309 - INFO - Retrying with a new session.
+2025-07-21 16:16:10,376 - WARNING - Retry 2: Failed to fetch or fill author de6nT0EAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 16:49:40,860 - INFO - Getting https://scholar.google.com/citations?hl=en&user=de6nT0EAAAAJ&pagesize=100
+2025-07-21 16:55:22,088 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 16:55:22,088 - INFO - Retrying with a new session.
+2025-07-21 16:55:23,958 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 16:55:23,959 - INFO - Retrying with a new session.
+2025-07-21 16:55:25,074 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 16:55:25,074 - INFO - Retrying with a new session.
+2025-07-21 16:55:26,308 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 16:55:26,308 - INFO - Retrying with a new session.
+2025-07-21 16:55:27,694 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 16:55:27,695 - INFO - Retrying with a new session.
+2025-07-21 16:55:27,753 - INFO - Getting https://scholar.google.com/citations?hl=en&user=de6nT0EAAAAJ&pagesize=100
+2025-07-21 17:00:31,709 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 17:00:31,710 - INFO - Retrying with a new session.
+2025-07-21 17:00:32,870 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:00:32,870 - INFO - Retrying with a new session.
+2025-07-21 17:00:34,301 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:00:34,301 - INFO - Retrying with a new session.
+2025-07-21 17:00:35,631 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:00:35,631 - INFO - Retrying with a new session.
+2025-07-21 17:00:36,982 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:00:36,982 - INFO - Retrying with a new session.
+2025-07-21 17:00:37,036 - WARNING - Retry 3: Failed to fetch or fill author de6nT0EAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 17:16:48,518 - ERROR - Failed to retrieve author profile for Kingsley Badu
+2025-07-21 17:16:48,518 - INFO - Getting https://scholar.google.com/citations?hl=en&user=ZsuY1NsAAAAJ&pagesize=100
+2025-07-21 17:16:49,633 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 17:16:49,633 - INFO - Retrying with a new session.
+2025-07-21 17:16:51,296 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:16:51,296 - INFO - Retrying with a new session.
+2025-07-21 17:16:53,210 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:16:53,210 - INFO - Retrying with a new session.
+2025-07-21 17:16:57,682 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:16:57,682 - INFO - Retrying with a new session.
+2025-07-21 17:16:59,692 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:16:59,692 - INFO - Retrying with a new session.
+2025-07-21 17:16:59,756 - INFO - Getting https://scholar.google.com/citations?hl=en&user=ZsuY1NsAAAAJ&pagesize=100
+2025-07-21 17:17:00,898 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 17:17:00,898 - INFO - Retrying with a new session.
+2025-07-21 17:17:02,708 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:17:02,709 - INFO - Retrying with a new session.
+2025-07-21 17:28:05,552 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:28:05,552 - INFO - Retrying with a new session.
+2025-07-21 17:28:07,600 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:28:07,602 - INFO - Retrying with a new session.
+2025-07-21 17:28:09,424 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:28:09,426 - INFO - Retrying with a new session.
+2025-07-21 17:28:09,483 - WARNING - Retry 1: Failed to fetch or fill author ZsuY1NsAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 17:28:31,351 - INFO - Getting https://scholar.google.com/citations?hl=en&user=ZsuY1NsAAAAJ&pagesize=100
+2025-07-21 17:28:46,486 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 17:28:46,486 - INFO - Retrying with a new session.
+2025-07-21 17:28:48,379 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:28:48,379 - INFO - Retrying with a new session.
+2025-07-21 17:28:50,196 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:28:50,197 - INFO - Retrying with a new session.
+2025-07-21 17:28:51,835 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:28:51,835 - INFO - Retrying with a new session.
+2025-07-21 17:31:31,050 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:31:31,050 - INFO - Retrying with a new session.
+2025-07-21 17:31:31,099 - INFO - Getting https://scholar.google.com/citations?hl=en&user=ZsuY1NsAAAAJ&pagesize=100
+2025-07-21 17:31:32,986 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 17:31:32,986 - INFO - Retrying with a new session.
+2025-07-21 17:31:34,294 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:31:34,294 - INFO - Retrying with a new session.
+2025-07-21 17:31:35,941 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:31:35,941 - INFO - Retrying with a new session.
+2025-07-21 17:31:37,890 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:31:37,890 - INFO - Retrying with a new session.
+2025-07-21 17:31:44,398 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:31:44,398 - INFO - Retrying with a new session.
+2025-07-21 17:31:44,464 - WARNING - Retry 2: Failed to fetch or fill author ZsuY1NsAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 17:33:31,755 - INFO - Getting https://scholar.google.com/citations?hl=en&user=ZsuY1NsAAAAJ&pagesize=100
+2025-07-21 17:33:33,485 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 17:33:33,485 - INFO - Retrying with a new session.
+2025-07-21 17:33:34,747 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:33:34,747 - INFO - Retrying with a new session.
+2025-07-21 17:42:27,693 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:42:27,693 - INFO - Retrying with a new session.
+2025-07-21 17:42:29,112 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:42:29,113 - INFO - Retrying with a new session.
+2025-07-21 17:42:30,694 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:42:30,695 - INFO - Retrying with a new session.
+2025-07-21 17:42:30,761 - INFO - Getting https://scholar.google.com/citations?hl=en&user=ZsuY1NsAAAAJ&pagesize=100
+2025-07-21 17:42:32,546 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 17:42:32,546 - INFO - Retrying with a new session.
+2025-07-21 17:42:34,041 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:42:34,041 - INFO - Retrying with a new session.
+2025-07-21 17:59:33,851 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:59:33,851 - INFO - Retrying with a new session.
+2025-07-21 17:59:35,542 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:59:35,542 - INFO - Retrying with a new session.
+2025-07-21 17:59:37,492 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 17:59:37,493 - INFO - Retrying with a new session.
+2025-07-21 17:59:37,556 - WARNING - Retry 3: Failed to fetch or fill author ZsuY1NsAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 18:02:11,095 - ERROR - Failed to retrieve author profile for Evelyn Kissi
+2025-07-21 18:02:11,095 - INFO - Getting https://scholar.google.com/citations?hl=en&user=6VcJPOEAAAAJ&pagesize=100
+2025-07-21 18:02:12,517 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:02:12,517 - INFO - Retrying with a new session.
+2025-07-21 18:02:14,398 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 18:02:14,398 - INFO - Retrying with a new session.
+2025-07-21 18:02:16,023 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 18:02:16,024 - INFO - Retrying with a new session.
+2025-07-21 18:18:42,733 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 18:18:42,733 - INFO - Retrying with a new session.
+2025-07-21 18:18:44,205 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 18:18:44,205 - INFO - Retrying with a new session.
+2025-07-21 18:18:44,270 - INFO - Getting https://scholar.google.com/citations?hl=en&user=6VcJPOEAAAAJ&pagesize=100
+2025-07-21 18:18:45,544 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:18:45,545 - INFO - Retrying with a new session.
+2025-07-21 18:34:52,081 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 18:34:52,081 - INFO - Retrying with a new session.
+2025-07-21 18:34:53,251 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 18:34:53,251 - INFO - Retrying with a new session.
+2025-07-21 18:34:54,917 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 18:34:54,917 - INFO - Retrying with a new session.
+2025-07-21 18:34:56,410 - INFO - Exception ConnectError while fetching page: ('[Errno 8] nodename nor servname provided, or not known',)
+2025-07-21 18:34:56,411 - INFO - Retrying with a new session.
+2025-07-21 18:34:56,469 - WARNING - Retry 1: Failed to fetch or fill author 6VcJPOEAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 18:39:33,536 - INFO - Getting https://scholar.google.com/citations?hl=en&user=6VcJPOEAAAAJ&pagesize=100
+2025-07-21 18:39:35,365 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:39:35,365 - INFO - Retrying with a new session.
+2025-07-21 18:39:40,813 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=6VcJPOEAAAAJ&pagesize=100 "HTTP/1.1 200 OK"
+2025-07-21 18:39:41,420 - INFO - Getting https://scholar.google.com/citations?hl=en&user=6VcJPOEAAAAJ&pagesize=100
+2025-07-21 18:39:43,368 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:39:43,368 - INFO - Retrying with a new session.
+2025-07-21 18:39:46,182 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=6VcJPOEAAAAJ&pagesize=100 "HTTP/1.1 200 OK"
+2025-07-21 18:39:46,877 - INFO - Getting https://scholar.google.com/citations?hl=en&tzom=300&user=6VcJPOEAAAAJ&view_op=list_mandates&pagesize=100
+2025-07-21 18:39:47,892 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:39:47,892 - INFO - Retrying with a new session.
+2025-07-21 18:39:49,971 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&tzom=300&user=6VcJPOEAAAAJ&view_op=list_mandates&pagesize=100 "HTTP/1.1 200 OK"
+2025-07-21 18:39:50,189 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:UebtZRa9Y70C
+2025-07-21 18:39:52,103 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:39:52,103 - INFO - Retrying with a new session.
+2025-07-21 18:39:55,057 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:UebtZRa9Y70C "HTTP/1.1 200 OK"
+2025-07-21 18:39:55,476 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:roLk4NBRz8UC
+2025-07-21 18:39:57,264 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:39:57,264 - INFO - Retrying with a new session.
+2025-07-21 18:40:00,181 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:roLk4NBRz8UC "HTTP/1.1 200 OK"
+2025-07-21 18:40:00,693 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:Zph67rFs4hoC
+2025-07-21 18:40:02,459 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:40:02,459 - INFO - Retrying with a new session.
+2025-07-21 18:40:05,394 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:Zph67rFs4hoC "HTTP/1.1 200 OK"
+2025-07-21 18:40:06,245 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:Se3iqnhoufwC
+2025-07-21 18:40:07,365 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:40:07,366 - INFO - Retrying with a new session.
+2025-07-21 18:40:09,222 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:Se3iqnhoufwC "HTTP/1.1 200 OK"
+2025-07-21 18:40:09,282 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:WF5omc3nYNoC
+2025-07-21 18:40:11,210 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:40:11,210 - INFO - Retrying with a new session.
+2025-07-21 18:40:12,706 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:WF5omc3nYNoC "HTTP/1.1 200 OK"
+2025-07-21 18:40:12,742 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:IjCSPb-OGe4C
+2025-07-21 18:40:14,439 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:40:14,439 - INFO - Retrying with a new session.
+2025-07-21 18:40:16,360 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:IjCSPb-OGe4C "HTTP/1.1 200 OK"
+2025-07-21 18:40:16,408 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:dhFuZR0502QC
+2025-07-21 18:40:18,113 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:40:18,114 - INFO - Retrying with a new session.
+2025-07-21 18:40:20,499 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:dhFuZR0502QC "HTTP/1.1 200 OK"
+2025-07-21 18:40:30,547 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:LkGwnXOMwfcC
+2025-07-21 18:40:31,909 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:40:31,909 - INFO - Retrying with a new session.
+2025-07-21 18:40:33,622 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:LkGwnXOMwfcC "HTTP/1.1 200 OK"
+2025-07-21 18:40:33,659 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:eQOLeE2rZwMC
+2025-07-21 18:40:35,047 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:40:35,047 - INFO - Retrying with a new session.
+2025-07-21 18:40:37,197 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:eQOLeE2rZwMC "HTTP/1.1 200 OK"
+2025-07-21 18:40:37,229 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:Tyk-4Ss8FVUC
+2025-07-21 18:40:39,163 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:40:39,163 - INFO - Retrying with a new session.
+2025-07-21 18:40:40,521 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:Tyk-4Ss8FVUC "HTTP/1.1 200 OK"
+2025-07-21 18:40:40,560 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:UeHWp8X0CEIC
+2025-07-21 18:40:42,493 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:40:42,494 - INFO - Retrying with a new session.
+2025-07-21 18:40:44,278 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:UeHWp8X0CEIC "HTTP/1.1 200 OK"
+2025-07-21 18:40:44,314 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:3fE2CSJIrl8C
+2025-07-21 18:40:46,305 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:40:46,306 - INFO - Retrying with a new session.
+2025-07-21 18:40:47,608 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:3fE2CSJIrl8C "HTTP/1.1 200 OK"
+2025-07-21 18:40:47,628 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:aqlVkmm33-oC
+2025-07-21 18:40:49,201 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:40:49,202 - INFO - Retrying with a new session.
+2025-07-21 18:40:51,330 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:aqlVkmm33-oC "HTTP/1.1 200 OK"
+2025-07-21 18:40:51,348 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:d1gkVwhDpl0C
+2025-07-21 18:40:52,431 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:40:52,432 - INFO - Retrying with a new session.
+2025-07-21 18:40:56,288 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:d1gkVwhDpl0C "HTTP/1.1 200 OK"
+2025-07-21 18:40:56,329 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qjMakFHDy7sC
+2025-07-21 18:40:58,257 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:40:58,257 - INFO - Retrying with a new session.
+2025-07-21 18:41:00,724 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qjMakFHDy7sC "HTTP/1.1 200 OK"
+2025-07-21 18:41:00,742 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:_FxGoFyzp5QC
+2025-07-21 18:41:02,185 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:41:02,186 - INFO - Retrying with a new session.
+2025-07-21 18:41:04,422 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:_FxGoFyzp5QC "HTTP/1.1 200 OK"
+2025-07-21 18:41:04,463 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:zYLM7Y9cAGgC
+2025-07-21 18:41:06,272 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:41:06,272 - INFO - Retrying with a new session.
+2025-07-21 18:41:07,816 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:zYLM7Y9cAGgC "HTTP/1.1 200 OK"
+2025-07-21 18:41:07,855 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:2osOgNQ5qMEC
+2025-07-21 18:41:09,473 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:41:09,473 - INFO - Retrying with a new session.
+2025-07-21 18:41:11,653 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:2osOgNQ5qMEC "HTTP/1.1 200 OK"
+2025-07-21 18:41:11,699 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:4TOpqqG69KYC
+2025-07-21 18:41:13,082 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:41:13,082 - INFO - Retrying with a new session.
+2025-07-21 18:41:15,122 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:4TOpqqG69KYC "HTTP/1.1 200 OK"
+2025-07-21 18:41:15,161 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:Y0pCki6q_DkC
+2025-07-21 18:41:16,875 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:41:16,876 - INFO - Retrying with a new session.
+2025-07-21 18:41:18,516 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:Y0pCki6q_DkC "HTTP/1.1 200 OK"
+2025-07-21 18:41:18,544 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:K3LRdlH-MEoC
+2025-07-21 18:41:19,974 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:41:19,974 - INFO - Retrying with a new session.
+2025-07-21 18:41:21,656 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:K3LRdlH-MEoC "HTTP/1.1 200 OK"
+2025-07-21 18:41:31,783 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:W7OEmFMy1HYC
+2025-07-21 18:41:32,898 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:41:32,899 - INFO - Retrying with a new session.
+2025-07-21 18:41:34,794 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:W7OEmFMy1HYC "HTTP/1.1 200 OK"
+2025-07-21 18:41:34,829 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:kNdYIx-mwKoC
+2025-07-21 18:41:36,471 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:41:36,472 - INFO - Retrying with a new session.
+2025-07-21 18:41:38,620 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:kNdYIx-mwKoC "HTTP/1.1 200 OK"
+2025-07-21 18:41:38,646 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:KlAtU1dfN6UC
+2025-07-21 18:41:39,852 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:41:39,852 - INFO - Retrying with a new session.
+2025-07-21 18:41:41,806 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:KlAtU1dfN6UC "HTTP/1.1 200 OK"
+2025-07-21 18:41:41,841 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:tOudhMTPpwUC
+2025-07-21 18:41:43,278 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:41:43,278 - INFO - Retrying with a new session.
+2025-07-21 18:41:44,800 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:tOudhMTPpwUC "HTTP/1.1 200 OK"
+2025-07-21 18:41:44,832 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:_kc_bZDykSQC
+2025-07-21 18:41:45,926 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:41:45,926 - INFO - Retrying with a new session.
+2025-07-21 18:41:47,690 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:_kc_bZDykSQC "HTTP/1.1 200 OK"
+2025-07-21 18:41:47,746 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:MXK_kJrjxJIC
+2025-07-21 18:41:49,010 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:41:49,010 - INFO - Retrying with a new session.
+2025-07-21 18:41:50,499 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:MXK_kJrjxJIC "HTTP/1.1 200 OK"
+2025-07-21 18:41:50,520 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:0EnyYjriUFMC
+2025-07-21 18:41:51,813 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:41:51,813 - INFO - Retrying with a new session.
+2025-07-21 18:41:54,067 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:0EnyYjriUFMC "HTTP/1.1 200 OK"
+2025-07-21 18:41:54,101 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:IWHjjKOFINEC
+2025-07-21 18:41:55,845 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:41:55,845 - INFO - Retrying with a new session.
+2025-07-21 18:41:57,653 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:IWHjjKOFINEC "HTTP/1.1 200 OK"
+2025-07-21 18:42:07,688 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:7PzlFSSx8tAC
+2025-07-21 18:42:09,552 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:42:09,552 - INFO - Retrying with a new session.
+2025-07-21 18:42:11,617 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:7PzlFSSx8tAC "HTTP/1.1 200 OK"
+2025-07-21 18:42:11,638 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:QIV2ME_5wuYC
+2025-07-21 18:42:12,958 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:42:12,958 - INFO - Retrying with a new session.
+2025-07-21 18:42:14,639 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:QIV2ME_5wuYC "HTTP/1.1 200 OK"
+2025-07-21 18:42:14,677 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:YOwf2qJgpHMC
+2025-07-21 18:42:15,729 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:42:15,729 - INFO - Retrying with a new session.
+2025-07-21 18:42:17,140 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:YOwf2qJgpHMC "HTTP/1.1 200 OK"
+2025-07-21 18:42:17,177 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:u-x6o8ySG0sC
+2025-07-21 18:42:19,077 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:42:19,078 - INFO - Retrying with a new session.
+2025-07-21 18:42:20,939 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:u-x6o8ySG0sC "HTTP/1.1 200 OK"
+2025-07-21 18:42:20,957 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:l7t_Zn2s7bgC
+2025-07-21 18:42:22,001 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:42:22,003 - INFO - Retrying with a new session.
+2025-07-21 18:42:23,456 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:l7t_Zn2s7bgC "HTTP/1.1 200 OK"
+2025-07-21 18:42:23,492 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:738O_yMBCRsC
+2025-07-21 18:42:25,016 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:42:25,017 - INFO - Retrying with a new session.
+2025-07-21 18:42:26,498 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:738O_yMBCRsC "HTTP/1.1 200 OK"
+2025-07-21 18:42:36,529 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:8AbLer7MMksC
+2025-07-21 18:42:37,922 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:42:37,922 - INFO - Retrying with a new session.
+2025-07-21 18:42:41,113 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:8AbLer7MMksC "HTTP/1.1 200 OK"
+2025-07-21 18:42:51,428 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:geHnlv5EZngC
+2025-07-21 18:42:52,948 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:42:52,948 - INFO - Retrying with a new session.
+2025-07-21 18:42:56,313 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:geHnlv5EZngC "HTTP/1.1 200 OK"
+2025-07-21 18:43:06,916 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:4fKUyHm3Qg0C
+2025-07-21 18:43:08,742 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:43:08,743 - INFO - Retrying with a new session.
+2025-07-21 18:43:12,287 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:4fKUyHm3Qg0C "HTTP/1.1 200 OK"
+2025-07-21 18:43:22,570 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:tS2w5q8j5-wC
+2025-07-21 18:43:24,396 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:43:24,397 - INFO - Retrying with a new session.
+2025-07-21 18:43:27,095 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:tS2w5q8j5-wC "HTTP/1.1 200 OK"
+2025-07-21 18:43:37,437 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC
+2025-07-21 18:43:38,449 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:43:38,449 - INFO - Retrying with a new session.
+2025-07-21 18:43:41,732 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:43:43,171 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGJ2F-8MGIi7z4H31UDLz5D3GHUCiRf3u2MyMVRRCbotMblBEHocJpW9W8vqFqKT8N_-q2tfeMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:43:43,172 - INFO - Got a captcha request.
+2025-07-21 18:43:56,673 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:43:56,676 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:43:56,676 - INFO - Retrying with a new session.
+2025-07-21 18:43:59,575 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:44:01,170 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGK-F-8MGIi7hk8DQ-GJ9RoFYe2dSQ0GQAMs3-WWNZpaWD4bU_G433JRPBX3A3DqASLHEDWWhMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:44:01,171 - INFO - Got a captcha request.
+2025-07-21 18:44:08,015 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:44:08,019 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:44:08,019 - INFO - Retrying with a new session.
+2025-07-21 18:44:11,616 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:44:13,783 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGLuF-8MGIi4AahK2TU8LB_s5eQtU5a044BYrd7r3tBq8hCtDVUNpYz8u5rIQgFqCTv00WfEIMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:44:13,784 - INFO - Got a captcha request.
+2025-07-21 18:44:19,225 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:44:19,228 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:44:19,228 - INFO - Retrying with a new session.
+2025-07-21 18:44:22,098 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:44:22,799 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGMWF-8MGIi7u7Ic3d_ZtgdUAFdU3zwln0BTD7wZ1mzQoY2bmEAwyh6CIx10xcW7xocfERFUhMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:44:22,800 - INFO - Got a captcha request.
+2025-07-21 18:44:27,219 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:44:27,221 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:44:27,222 - INFO - Retrying with a new session.
+2025-07-21 18:44:27,598 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC
+2025-07-21 18:44:29,025 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:44:29,026 - INFO - Retrying with a new session.
+2025-07-21 18:44:32,017 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:44:32,731 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGM-F-8MGIi7sIVJK5VOc2WjKv2s7PAcSMXtJNIESxp15tUgjLNOn0YrNV8iUzEPaQhb3vtyyMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:44:32,732 - INFO - Got a captcha request.
+2025-07-21 18:44:38,096 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:44:38,098 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:44:38,098 - INFO - Retrying with a new session.
+2025-07-21 18:44:41,105 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:44:42,041 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGNiF-8MGIi7QF4Abe18th9jpm0Hhc1tFlmRjMV63ZiON5WK0ZB0bjKskcgY5qErm50Ayz7U_MgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:44:42,043 - INFO - Got a captcha request.
+2025-07-21 18:44:48,314 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:44:48,315 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:44:48,315 - INFO - Retrying with a new session.
+2025-07-21 18:44:51,625 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:44:53,468 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGOOF-8MGIi50837lkUuXx9Gjbgk1C3D3NdBOdCwUzpsgpJk_MJPRuO1l66Q0reAaWlqLQcKlMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:44:53,469 - INFO - Got a captcha request.
+2025-07-21 18:44:59,134 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:44:59,137 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:44:59,137 - INFO - Retrying with a new session.
+2025-07-21 18:45:02,509 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:45:03,429 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGO6F-8MGIi6HNxnZrFOEKAQSLxrBomM4J51JDqltUIDtcSGyo_b27acIjxrfJ57RubsDUbK5MgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:45:03,430 - INFO - Got a captcha request.
+2025-07-21 18:45:08,687 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:45:08,690 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:45:08,690 - INFO - Retrying with a new session.
+2025-07-21 18:45:09,057 - WARNING - Retry 1 for fill failed: Cannot Fetch from Google Scholar.
+2025-07-21 18:45:11,062 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC
+2025-07-21 18:45:12,794 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:45:12,795 - INFO - Retrying with a new session.
+2025-07-21 18:45:16,152 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:45:17,771 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGPuF-8MGIi46g_mKtqkX_W5wS6C7vXhOwP5Cg7FW19NXvmmUEwXgq_efqaHWMaPzy3Ayj-0PMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:45:17,773 - INFO - Got a captcha request.
+2025-07-21 18:45:24,467 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:45:24,470 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:45:24,470 - INFO - Retrying with a new session.
+2025-07-21 18:45:28,429 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:45:29,763 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGIiG-8MGIi5qpsT35w31HUiTVQYfmhUgaSyjrTyt5xWcRl_b6UI6LE1sL9I2OKx3d231ruGQMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:45:29,765 - INFO - Got a captcha request.
+2025-07-21 18:45:34,444 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:45:34,447 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:45:34,447 - INFO - Retrying with a new session.
+2025-07-21 18:45:37,823 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:45:39,364 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGJGG-8MGIi7Kf9_WiKLzl_Ud5e_N6SMjnro0sTLwd8U24MeGD_SnmKDpnFmIRJelsFLxhD3GMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:45:39,365 - INFO - Got a captcha request.
+2025-07-21 18:45:45,767 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:45:45,770 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:45:45,770 - INFO - Retrying with a new session.
+2025-07-21 18:45:48,461 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:45:49,510 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGJyG-8MGIi6nUcu1xvI735nkq5tHKU3Q2OnaQGjuTYMVqpJKIgO-elB4uBbLd-81xGkgkmp0MgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:45:49,512 - INFO - Got a captcha request.
+2025-07-21 18:45:55,563 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:45:55,566 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:45:55,567 - INFO - Retrying with a new session.
+2025-07-21 18:45:55,933 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC
+2025-07-21 18:45:57,777 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:45:57,777 - INFO - Retrying with a new session.
+2025-07-21 18:45:59,905 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:46:00,609 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGKeG-8MGIi6HdxM67p5ADVuRmGQRtjJMqsrLYmwYs9voc97mm9VCJWu92PzTzGp6Mt_iiuLeMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:46:00,609 - INFO - Got a captcha request.
+2025-07-21 18:46:07,440 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:46:07,443 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:46:07,443 - INFO - Retrying with a new session.
+2025-07-21 18:46:11,587 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:46:12,760 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGLOG-8MGIi5vZyqKkoxZV3XLHLXeX27GR3oFXHncnp9vh_aq9BruICBdRX2shLkElBqC69ZPMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:46:12,760 - INFO - Got a captcha request.
+2025-07-21 18:46:19,337 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:46:19,340 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:46:19,340 - INFO - Retrying with a new session.
+2025-07-21 18:46:23,180 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:46:24,758 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGL6G-8MGIi7egR-C6CaYofzwbTwkOCTz99ZDsufkzDuuMZYTkPDOgf3biJgQWL6CnDUM4gDpMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:46:24,761 - INFO - Got a captcha request.
+2025-07-21 18:46:32,178 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:46:32,181 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:46:32,181 - INFO - Retrying with a new session.
+2025-07-21 18:46:35,787 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:46:36,914 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGMuG-8MGIi7gFzCmW3FIS9DHEMRfinnQSDWWLkQ70bTGgy75r4UQJgq5ARNBPbA7Emao_VOPMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:46:36,915 - INFO - Got a captcha request.
+2025-07-21 18:46:42,725 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:46:42,727 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:46:42,728 - INFO - Retrying with a new session.
+2025-07-21 18:46:43,089 - WARNING - Retry 2 for fill failed: Cannot Fetch from Google Scholar.
+2025-07-21 18:46:45,095 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC
+2025-07-21 18:46:46,262 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:46:46,262 - INFO - Retrying with a new session.
+2025-07-21 18:46:48,652 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:46:49,477 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGNiG-8MGIi7PcThfNKEU4sa7r-XHSk87lK1n5C9iNELZUOIVNKYxTjn2SL_2yU6nZxZ6MfR9MgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:46:49,478 - INFO - Got a captcha request.
+2025-07-21 18:46:55,559 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:46:55,562 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:46:55,562 - INFO - Retrying with a new session.
+2025-07-21 18:46:58,389 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:46:59,033 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGOGG-8MGIi6BauQXJyfpI5MsOyYg2CgFG2E4y7KDsy1IaWp9zhEIuUOLFDlkNAcKICWrS2xUMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:46:59,034 - INFO - Got a captcha request.
+2025-07-21 18:47:04,807 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:47:04,810 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:47:04,810 - INFO - Retrying with a new session.
+2025-07-21 18:47:08,102 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:47:09,432 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGOuG-8MGIi5Wocqm7vsirxNmF2YNEPiaFSfmEl9nAXUF2KFvqnsAXTBCJlV32nBymBIvhGDaMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:47:09,433 - INFO - Got a captcha request.
+2025-07-21 18:47:15,082 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:47:15,084 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:47:15,084 - INFO - Retrying with a new session.
+2025-07-21 18:47:18,692 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:47:19,669 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGPaG-8MGIi6ekSDUv4pLM9HiSAtS6JgaTeoLomjoqyn_kNc4F1ppYLJ_zWSiPHDniIDVc7y0MgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:47:19,670 - INFO - Got a captcha request.
+2025-07-21 18:47:24,851 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:47:24,853 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:47:24,853 - INFO - Retrying with a new session.
+2025-07-21 18:47:25,242 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC
+2025-07-21 18:47:26,468 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:47:26,468 - INFO - Retrying with a new session.
+2025-07-21 18:47:30,271 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:47:31,258 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGIKH-8MGIi40c9bXxEd3swzdgbpaW1Q8yBCT5qjWjkqLXiecUAeO-DbFp_W0OjFH2l-L3oN4MgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:47:31,264 - INFO - Got a captcha request.
+2025-07-21 18:47:37,895 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:47:37,899 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:47:37,899 - INFO - Retrying with a new session.
+2025-07-21 18:47:41,171 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:47:42,605 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGIyH-8MGIi4pXLf2OrW_3-pGS08S8uDAdrIdN9chbCWbBf0cbc7eBagovnboO-v8cIm8nI-zMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:47:42,605 - INFO - Got a captcha request.
+2025-07-21 18:47:48,461 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:47:48,464 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:47:48,464 - INFO - Retrying with a new session.
+2025-07-21 18:47:52,167 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:47:52,949 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGJeH-8MGIi4_nWTb_QXACpknihNNGkHeZ9JXjzSXWpUqW6Tk2x8UdHLktRpkZ-tkYUtGqgr_MgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:47:52,950 - INFO - Got a captcha request.
+2025-07-21 18:47:57,959 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:47:57,962 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:47:57,962 - INFO - Retrying with a new session.
+2025-07-21 18:48:00,565 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:B3FOqHPlNUQC "HTTP/1.1 302 Found"
+2025-07-21 18:48:01,713 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:B3FOqHPlNUQC&hl=en&q=EgTGYCUFGKCH-8MGIi4Cjo8KvViArVlqvyWw1WXVgDtCZlE55nz4rY_CMcC8YvaGB_LQxoJLL0MlH5Z1MgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:48:01,717 - INFO - Got a captcha request.
+2025-07-21 18:48:09,146 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:48:09,149 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:48:09,149 - INFO - Retrying with a new session.
+2025-07-21 18:48:09,547 - WARNING - Retry 3 for fill failed: Cannot Fetch from Google Scholar.
+2025-07-21 18:48:11,552 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qUcmZB5y_30C
+2025-07-21 18:48:13,097 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:48:13,097 - INFO - Retrying with a new session.
+2025-07-21 18:48:16,160 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qUcmZB5y_30C "HTTP/1.1 302 Found"
+2025-07-21 18:48:17,093 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:qUcmZB5y_30C&hl=en&q=EgTGYCUFGK-H-8MGIi6nJHxvd14OA89AZ8VfhR5K7dWYvutLcBsNMuwsV_6lWXr-8wr4Pe6WEwYi_6faMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:48:17,095 - INFO - Got a captcha request.
+2025-07-21 18:48:23,552 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:48:23,554 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:48:23,554 - INFO - Retrying with a new session.
+2025-07-21 18:48:26,918 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qUcmZB5y_30C "HTTP/1.1 302 Found"
+2025-07-21 18:48:27,830 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:qUcmZB5y_30C&hl=en&q=EgTGYCUFGLqH-8MGIi64v9RT96WWB8iq8862uRHAQzqxDySzgGZ6oT7LPl-niTN_nu_qp7jfzlwz6Y4fMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:48:27,832 - INFO - Got a captcha request.
+2025-07-21 18:48:35,027 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:48:35,029 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:48:35,029 - INFO - Retrying with a new session.
+2025-07-21 18:48:38,975 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qUcmZB5y_30C "HTTP/1.1 302 Found"
+2025-07-21 18:48:40,745 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:qUcmZB5y_30C&hl=en&q=EgTGYCUFGMaH-8MGIi7Qd1FOj9Qkp2w0LDg-YB7rviLOGlMJq8HE4j3WUZmxfS6KvloU4j5c4j0CzJ4TMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:48:40,746 - INFO - Got a captcha request.
+2025-07-21 18:48:47,705 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:48:47,709 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:48:47,709 - INFO - Retrying with a new session.
+2025-07-21 18:48:50,368 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qUcmZB5y_30C "HTTP/1.1 302 Found"
+2025-07-21 18:48:51,578 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:qUcmZB5y_30C&hl=en&q=EgTGYCUFGNGH-8MGIi6vsLuT4hlYJGzx9eNmiu1HFzBflBrVgLGjdlk_AknyBFMXJ67KrpIqbzFs7PIoMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:48:51,579 - INFO - Got a captcha request.
+2025-07-21 18:48:56,776 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:48:56,779 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:48:56,779 - INFO - Retrying with a new session.
+2025-07-21 18:48:57,145 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qUcmZB5y_30C
+2025-07-21 18:48:58,698 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:48:58,698 - INFO - Retrying with a new session.
+2025-07-21 18:49:01,572 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qUcmZB5y_30C "HTTP/1.1 302 Found"
+2025-07-21 18:49:02,296 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:qUcmZB5y_30C&hl=en&q=EgTGYCUFGN2H-8MGIi5zeOCZX6Fr09amyoxE_Zi3W5b27EFhE1i1WbmqR44_J3nelyZb8JJly0DEukZ5MgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:49:02,298 - INFO - Got a captcha request.
+2025-07-21 18:49:07,056 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:49:07,059 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:49:07,059 - INFO - Retrying with a new session.
+2025-07-21 18:49:11,259 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qUcmZB5y_30C "HTTP/1.1 302 Found"
+2025-07-21 18:49:12,649 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:qUcmZB5y_30C&hl=en&q=EgTGYCUFGOaH-8MGIi4CC_4_eBFXpeG_PgNEdVumDmP-TrJUIVtyG3Dj6qn6F9RtI1MraWEgLFs_vuTzMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:49:12,650 - INFO - Got a captcha request.
+2025-07-21 18:49:17,444 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:49:17,447 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:49:17,447 - INFO - Retrying with a new session.
+2025-07-21 18:49:22,619 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qUcmZB5y_30C "HTTP/1.1 302 Found"
+2025-07-21 18:49:23,713 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:qUcmZB5y_30C&hl=en&q=EgTGYCUFGPKH-8MGIi5ybat4Af4lkOWxsLUyEIJcE2QDW66gL2MvdngZ9YebmcJ3S8dh7I0W7iChqf12MgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:49:23,715 - INFO - Got a captcha request.
+2025-07-21 18:49:27,654 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:49:27,656 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:49:27,656 - INFO - Retrying with a new session.
+2025-07-21 18:49:31,272 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qUcmZB5y_30C "HTTP/1.1 302 Found"
+2025-07-21 18:49:32,256 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:qUcmZB5y_30C&hl=en&q=EgTGYCUFGPqH-8MGIi57sjbQjRTnnlGepnlQzuAjQiekF9FNNZr-uWYEviJt5KfA8Ujx8HlAk8-SQVmSMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:49:32,257 - INFO - Got a captcha request.
+2025-07-21 18:49:36,157 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:49:36,159 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:49:36,160 - INFO - Retrying with a new session.
+2025-07-21 18:49:36,543 - WARNING - Retry 1 for fill failed: Cannot Fetch from Google Scholar.
+2025-07-21 18:49:38,549 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qUcmZB5y_30C
+2025-07-21 18:49:39,756 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 18:49:39,757 - INFO - Retrying with a new session.
+2025-07-21 18:49:42,093 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qUcmZB5y_30C "HTTP/1.1 302 Found"
+2025-07-21 18:49:42,876 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:qUcmZB5y_30C&hl=en&q=EgTGYCUFGIWI-8MGIi4LNplt2ov8kYpyBvNyGNFCmQN1Je2qozqw1Qm6votAL9XMV62e1Aay_cextwLxMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:49:42,877 - INFO - Got a captcha request.
+2025-07-21 18:49:47,746 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:49:47,749 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:49:47,749 - INFO - Retrying with a new session.
+2025-07-21 18:49:51,169 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qUcmZB5y_30C "HTTP/1.1 302 Found"
+2025-07-21 18:49:51,944 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:qUcmZB5y_30C&hl=en&q=EgTGYCUFGI6I-8MGIi5xombt5O89UTpyuVZSf2G41BLTMEJ7pyLQJyxBmHtJbBpFZNfI0eur19MOUKiSMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:49:51,946 - INFO - Got a captcha request.
+2025-07-21 18:49:56,996 - INFO - Solved captcha in less than 10 seconds.
+2025-07-21 18:49:56,998 - INFO - Exception TypeError while fetching page: ("Cookies.set() got an unexpected keyword argument 'secure'",)
+2025-07-21 18:49:56,998 - INFO - Retrying with a new session.
+2025-07-21 18:49:59,502 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=6VcJPOEAAAAJ:qUcmZB5y_30C "HTTP/1.1 302 Found"
+2025-07-21 18:50:00,549 - INFO - HTTP Request: GET https://www.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fhl%3Den%26view_op%3Dview_citation%26citation_for_view%3D6VcJPOEAAAAJ:qUcmZB5y_30C&hl=en&q=EgTGYCUFGJeI-8MGIi5VZUr8rNaWhS9SnL9t5rEE6POvBBCqX0vAlVAoxvCDoOgbsZkmQeTSkwXG56ChMgJyUloBQw "HTTP/1.1 429 Too Many Requests"
+2025-07-21 18:50:00,550 - INFO - Got a captcha request.
+2025-07-21 18:50:02,646 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10015f740>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c9bc2819-0267-4286-bac1-a70c1f8330fa
+2025-07-21 18:50:02,647 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108aa1f10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c9bc2819-0267-4286-bac1-a70c1f8330fa
+2025-07-21 18:50:02,647 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107d6bef0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c9bc2819-0267-4286-bac1-a70c1f8330fa

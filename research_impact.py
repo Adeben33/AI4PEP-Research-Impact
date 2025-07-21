@@ -615,7 +615,12 @@ author_dict = {
 
 # ---------- EXECUTION ----------
 try:
-    batch_number = int(sys.argv[1]) if len(sys.argv) > 1 else 0
+    batch_number = 0
+    for arg in sys.argv[1:]:
+        if arg.isdigit():
+            batch_number = int(arg)
+            break
+
     BATCH_SIZE = 10
     all_authors = list(author_dict.items())
     TOTAL_BATCHES = (len(all_authors) + BATCH_SIZE - 1) // BATCH_SIZE
