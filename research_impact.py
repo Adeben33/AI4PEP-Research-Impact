@@ -7,6 +7,7 @@ import re
 import json
 import random
 from scholarly import scholarly
+import sys
 
 
 # ---------- CONFIG ----------
@@ -613,7 +614,20 @@ author_dict = {
 }
 
 # ---------- EXECUTION ----------
-for author_name, user_id in author_dict.items():
+
+
+# Get batch number from command-line argument or default to 0
+batch_number = int(sys.argv[1]) if len(sys.argv) > 1 else 0
+BATCH_SIZE = 10  # You can adjust this
+all_authors = list(author_dict.items())
+TOTAL_BATCHES = (len(all_authors) + BATCH_SIZE - 1) // BATCH_SIZE
+
+start_idx = batch_number * BATCH_SIZE
+end_idx = start_idx + BATCH_SIZE
+batch_authors = all_authors[start_idx:end_idx]
+
+# ---------- EXECUTION ----------
+for author_name, user_id in batch_authors:
     print(f"🔍 Retrieving data for {author_name}...")
     profile, _ = get_author_by_user_id(user_id)
     if profile:
@@ -624,5 +638,4 @@ for author_name, user_id in author_dict.items():
         print(f"❌ Could not retrieve profile for {author_name}")
         logging.error(f"Failed to retrieve author profile for {author_name}")
 
-
-print("🎉 All authors processed. Check your output folders.")
+print("🎉 Batch finished. Check your output folders.")

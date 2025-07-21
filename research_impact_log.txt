@@ -1,1 +1,133 @@
 2025-07-21 05:54:41,823 - INFO - Getting https://scholar.google.com/citations?hl=en&user=4UR2BucAAAAJ&pagesize=100
+2025-07-21 14:58:38,053 - INFO - Getting https://scholar.google.com/citations?hl=en&user=4UR2BucAAAAJ&pagesize=100
+2025-07-21 14:58:44,476 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 14:58:44,476 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 14:58:56,460 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 14:58:56,461 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 14:59:12,947 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 14:59:12,948 - INFO - Giving up this session.
+2025-07-21 14:59:29,540 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 14:59:29,541 - INFO - Giving up this session.
+2025-07-21 14:59:46,627 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 14:59:46,628 - INFO - Giving up this session.
+2025-07-21 15:00:03,301 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:00:03,303 - INFO - Giving up this session.
+2025-07-21 15:00:20,267 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:00:20,268 - INFO - Giving up this session.
+2025-07-21 15:00:20,334 - INFO - Getting https://scholar.google.com/citations?hl=en&user=4UR2BucAAAAJ&pagesize=100
+2025-07-21 15:00:27,310 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:00:27,310 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:00:39,305 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:00:39,306 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:00:56,239 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:00:56,241 - INFO - Giving up this session.
+2025-07-21 15:01:12,399 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:01:12,400 - INFO - Giving up this session.
+2025-07-21 15:01:28,721 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:01:28,721 - INFO - Giving up this session.
+2025-07-21 15:01:45,276 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:01:45,277 - INFO - Giving up this session.
+2025-07-21 15:02:01,598 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:02:01,599 - INFO - Giving up this session.
+2025-07-21 15:02:01,663 - WARNING - Retry 1: Failed to fetch or fill author 4UR2BucAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 15:02:11,669 - INFO - Getting https://scholar.google.com/citations?hl=en&user=4UR2BucAAAAJ&pagesize=100
+2025-07-21 15:02:13,427 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:02:13,427 - INFO - Retrying with a new session.
+2025-07-21 15:02:20,163 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:02:20,164 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:02:31,362 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:02:31,363 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:02:47,445 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:02:47,446 - INFO - Giving up this session.
+2025-07-21 15:03:03,575 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:03:03,575 - INFO - Giving up this session.
+2025-07-21 15:03:20,559 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:03:20,560 - INFO - Giving up this session.
+2025-07-21 15:03:36,671 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:03:36,672 - INFO - Giving up this session.
+2025-07-21 15:03:36,725 - INFO - Getting https://scholar.google.com/citations?hl=en&user=4UR2BucAAAAJ&pagesize=100
+2025-07-21 15:03:37,878 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:03:37,879 - INFO - Retrying with a new session.
+2025-07-21 15:03:44,075 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:03:44,078 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:03:55,609 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:03:55,609 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:04:12,146 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:04:12,148 - INFO - Giving up this session.
+2025-07-21 15:04:28,855 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:04:28,855 - INFO - Giving up this session.
+2025-07-21 15:04:45,058 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:04:45,059 - INFO - Giving up this session.
+2025-07-21 15:05:01,180 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:05:01,181 - INFO - Giving up this session.
+2025-07-21 15:05:01,240 - WARNING - Retry 2: Failed to fetch or fill author 4UR2BucAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 15:05:11,242 - INFO - Getting https://scholar.google.com/citations?hl=en&user=4UR2BucAAAAJ&pagesize=100
+2025-07-21 15:05:12,473 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:05:12,473 - INFO - Retrying with a new session.
+2025-07-21 15:05:18,977 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:05:18,977 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:05:30,596 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:05:30,596 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:05:47,268 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:05:47,269 - INFO - Giving up this session.
+2025-07-21 15:06:03,882 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:06:03,882 - INFO - Giving up this session.
+2025-07-21 15:06:20,922 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:06:20,924 - INFO - Giving up this session.
+2025-07-21 15:06:37,871 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:06:37,872 - INFO - Giving up this session.
+2025-07-21 15:06:37,928 - INFO - Getting https://scholar.google.com/citations?hl=en&user=4UR2BucAAAAJ&pagesize=100
+2025-07-21 15:06:39,678 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:06:39,678 - INFO - Retrying with a new session.
+2025-07-21 15:06:45,831 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:06:45,831 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:06:57,180 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:06:57,180 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:07:13,998 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:07:13,999 - INFO - Giving up this session.
+2025-07-21 15:07:30,656 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:07:30,657 - INFO - Giving up this session.
+2025-07-21 15:07:47,474 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:07:47,476 - INFO - Giving up this session.
+2025-07-21 15:08:04,030 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:08:04,030 - INFO - Giving up this session.
+2025-07-21 15:08:04,091 - WARNING - Retry 3: Failed to fetch or fill author 4UR2BucAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 15:08:14,096 - ERROR - Failed to retrieve author profile for Denis Nkweteyim
+2025-07-21 15:08:14,097 - INFO - Getting https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100
+2025-07-21 15:08:15,745 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:08:15,747 - INFO - Retrying with a new session.
+2025-07-21 15:08:22,000 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:08:22,000 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:08:33,259 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:08:33,259 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:08:49,672 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:08:49,673 - INFO - Giving up this session.
+2025-07-21 15:09:05,878 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:09:05,880 - INFO - Giving up this session.
+2025-07-21 15:09:22,512 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:09:22,512 - INFO - Giving up this session.
+2025-07-21 15:09:39,027 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:09:39,027 - INFO - Giving up this session.
+2025-07-21 15:09:39,093 - INFO - Getting https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100
+2025-07-21 15:09:40,119 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:09:40,120 - INFO - Retrying with a new session.
+2025-07-21 15:09:47,062 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:09:47,063 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:09:58,474 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:09:58,474 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:10:15,352 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:10:15,353 - INFO - Giving up this session.
+2025-07-21 15:10:32,282 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:10:32,283 - INFO - Giving up this session.
+2025-07-21 15:10:48,686 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:10:48,688 - INFO - Giving up this session.
+2025-07-21 15:11:05,420 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:11:05,422 - INFO - Giving up this session.
+2025-07-21 15:11:05,490 - WARNING - Retry 1: Failed to fetch or fill author bNK6lMoAAAAJ — Cannot Fetch from Google Scholar.
+2025-07-21 15:11:15,496 - INFO - Getting https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100
+2025-07-21 15:11:17,248 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-07-21 15:11:17,251 - INFO - Retrying with a new session.
+2025-07-21 15:11:24,359 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:11:24,359 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:11:36,249 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:11:36,250 - INFO - Increasing timeout and retrying within same session.
