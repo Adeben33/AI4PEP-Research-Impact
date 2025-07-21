@@ -1,0 +1,1 @@
+2025-07-21 05:54:41,823 - INFO - Getting https://scholar.google.com/citations?hl=en&user=4UR2BucAAAAJ&pagesize=100

@@ -1,0 +1,48 @@
+name: Daily Research Impact Scraper
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Run daily at 08:00 UTC
+  workflow_dispatch:      # Allow manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  update-impact-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: 🐍 Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: 📦 Install Dependencies
+      run: |
+        pip install -r AI4PEP/requirements.txt
+
+    - name: 🧠 Run Research Impact Script
+      run: |
+        python AI4PEP/research_impact.py 
+
+    - name: 📤 Commit & Push Updated Files
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+        git add .
+        git commit -m "🔁 Daily update of research impact data: $(date -u '+%Y-%m-%d')" || echo "No changes to commit"
+
+        if ! git diff-index --quiet HEAD; then # Check if working directory is clean after commit
+          echo "Changes detected after commit, proceeding with push."
+          git stash # Temporarily save local changes
+          git pull --rebase origin main || echo "Nothing to rebase" # Pull latest from main, rebase local changes
+          git stash pop || echo "Nothing to pop" # Reapply stashed changes
+          git push || echo "Push failed, but continuing workflow" # Push to GitHub, ignore failure
+        else
+          echo "No new changes to push."
+        fi
