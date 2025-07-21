@@ -614,28 +614,44 @@ author_dict = {
 }
 
 # ---------- EXECUTION ----------
+try:
+    batch_number = int(sys.argv[1]) if len(sys.argv) > 1 else 0
+    BATCH_SIZE = 10
+    all_authors = list(author_dict.items())
+    TOTAL_BATCHES = (len(all_authors) + BATCH_SIZE - 1) // BATCH_SIZE
 
+    if batch_number >= TOTAL_BATCHES:
+        print(f"❌ Batch number {batch_number} exceeds total batches ({TOTAL_BATCHES}). Exiting.")
+        sys.exit(1)
 
-# Get batch number from command-line argument or default to 0
-batch_number = int(sys.argv[1]) if len(sys.argv) > 1 else 0
-BATCH_SIZE = 10  # You can adjust this
-all_authors = list(author_dict.items())
-TOTAL_BATCHES = (len(all_authors) + BATCH_SIZE - 1) // BATCH_SIZE
+    start_idx = batch_number * BATCH_SIZE
+    end_idx = start_idx + BATCH_SIZE
+    batch_authors = all_authors[start_idx:end_idx]
 
-start_idx = batch_number * BATCH_SIZE
-end_idx = start_idx + BATCH_SIZE
-batch_authors = all_authors[start_idx:end_idx]
+    print(f"📦 Running batch {batch_number + 1}/{TOTAL_BATCHES} with {len(batch_authors)} authors...\n")
 
-# ---------- EXECUTION ----------
-for author_name, user_id in batch_authors:
-    print(f"🔍 Retrieving data for {author_name}...")
-    profile, _ = get_author_by_user_id(user_id)
-    if profile:
-        works = get_scholar_publications(profile)
-        process_author(author_name, profile, works)
-        time.sleep(random.uniform(10, 15))  # Slow down between authors
-    else:
-        print(f"❌ Could not retrieve profile for {author_name}")
-        logging.error(f"Failed to retrieve author profile for {author_name}")
+    for author_name, user_id in batch_authors:
+        print(f"🔍 Retrieving data for {author_name}...")
+        profile, _ = get_author_by_user_id(user_id)
 
-print("🎉 Batch finished. Check your output folders.")
+        if profile:
+            works = get_scholar_publications(profile)
+            process_author(author_name, profile, works)
+            time.sleep(random.uniform(10, 15))
+        else:
+            print(f"❌ Could not retrieve profile for {author_name}. Stopping batch.")
+            logging.error(f"Failed to retrieve author profile for {author_name}. Terminating execution.")
+            sys.exit(1)
+
+    print("🎉 Batch finished. Check your output folders.")
+
+except Exception as e:
+    print("🚨 Fatal error during execution.")
+    logging.error(f"Unhandled exception: {e}")
+    if "scholarly" in str(e).lower() or isinstance(e, ConnectionError):
+        print("⚠️ Google Scholar may be down or blocked.")
+        print("💡 Tips:")
+        print("- Check your internet connection or proxy (e.g., Tor or VPN).")
+        print("- Try again later.")
+        print("- Or switch to OpenAlex or Crossref for publication data.")
+    raise

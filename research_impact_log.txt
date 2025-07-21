@@ -131,3 +131,31 @@
 2025-07-21 15:11:24,359 - INFO - Increasing timeout and retrying within same session.
 2025-07-21 15:11:36,249 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
 2025-07-21 15:11:36,250 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:17:43,140 - INFO - Getting https://scholar.google.com/citations?hl=en&user=4UR2BucAAAAJ&pagesize=100
+2025-07-21 15:17:49,515 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:17:49,515 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:18:01,451 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:18:01,452 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:18:18,030 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:18:18,031 - INFO - Giving up this session.
+2025-07-21 15:18:34,949 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:18:34,949 - INFO - Giving up this session.
+2025-07-21 15:18:51,838 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:18:51,840 - INFO - Giving up this session.
+2025-07-21 15:19:08,392 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:19:08,393 - INFO - Giving up this session.
+2025-07-21 15:19:24,616 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:19:24,616 - INFO - Giving up this session.
+2025-07-21 15:19:24,666 - INFO - Getting https://scholar.google.com/citations?hl=en&user=4UR2BucAAAAJ&pagesize=100
+2025-07-21 15:19:31,163 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:19:31,163 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:19:43,155 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:19:43,156 - INFO - Increasing timeout and retrying within same session.
+2025-07-21 15:19:59,723 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:19:59,724 - INFO - Giving up this session.
+2025-07-21 15:20:16,062 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:20:16,063 - INFO - Giving up this session.
+2025-07-21 15:20:32,176 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:20:32,177 - INFO - Giving up this session.
+2025-07-21 15:20:49,035 - INFO - Timeout Exception ConnectTimeout while fetching page: ('_ssl.c:983: The handshake operation timed out',)
+2025-07-21 15:20:49,035 - INFO - Giving up this session.
