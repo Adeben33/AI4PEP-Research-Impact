@@ -29,7 +29,7 @@ jobs:
 
       - name: 🧠 Run Full Research Impact Script
         run: |
-          python research_impact_no_batches.py || echo "⚠️ Script encountered errors but continuing to commit results."
+          python research_impact.py || echo "⚠️ Script encountered errors but continuing to commit results."
 
       - name: 📤 Commit & Push Updated Files (even if script failed)
         run: |
