@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Continual object detection: a review of definitions, strategies, and challenges",
+    "year": 2023,
+    "authors": "Angelo G Menezes and Gustavo de Moura and C\u00e9zanne Alves and Andr\u00e9 CPLF de Carvalho",
+    "venue": "N/A",
+    "citations": 70,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0893608023000539"
+  },
+  {
+    "title": "International ai safety report",
+    "year": 2025,
+    "authors": "Yoshua Bengio and S\u00f6ren Mindermann and Daniel Privitera and Tamay Besiroglu and Rishi Bommasani and Stephen Casper and Yejin Choi and Philip Fox and Ben Garfinkel and Danielle Goldfarb and Hoda Heidari and Anson Ho and Sayash Kapoor and Leila Khalatbari and Shayne Longpre and Sam Manning and Vasilios Mavroudis and Mantas Mazeika and Julian Michael and Jessica Newman and Kwan Yee Ng and Chinasa T Okolo and Deborah Raji and Girish Sastry and Elizabeth Seger and Theodora Skeadas and Tobin South and Emma Strubell and Florian Tram\u00e8r and Lucia Velasco and Nicole Wheeler and Daron Acemoglu and Olubayo Adekanmbi and David Dalrymple and Thomas G Dietterich and Edward W Felten and Pascale Fung and Pierre-Olivier Gourinchas and Fredrik Heintz and Geoffrey Hinton and Nick Jennings and Andreas Krause and Susan Leavy and Percy Liang and Teresa Ludermir and Vidushi Marda and Helen Margetts and John McDermid and Jane Munga and Arvind Narayanan and Alondra Nelson and Clara Neppel and Alice Oh and Gopal Ramchurn and Stuart Russell and Marietje Schaake and Bernhard Sch\u00f6lkopf and Dawn Song and Alvaro Soto and Lee Tiedrich and Ga\u00ebl Varoquaux and Andrew Yao and Ya-Qin Zhang and Fahad Albalawi and Marwan Alserkal and Olubunmi Ajala and Guillaume Avrin and Christian Busch and Andr\u00e9 Carlos Ponce de Leon Ferreira de Carvalho and Bronwyn Fox and Amandeep Singh Gill and Ahmet Halit Hatip and Juha Heikkil\u00e4 and Gill Jolly and Ziv Katzir and Hiroaki Kitano and Antonio Kr\u00fcger and Chris Johnson and Saif M Khan and Kyoung Mu Lee and Dominic Vincent Ligot and Oleksii Molchanovskyi and Andrea Monti and Nusu Mwamanzi and Mona Nemer and Nuria Oliver and Jos\u00e9 Ram\u00f3n L\u00f3pez Portillo and Balaraman Ravindran and Raquel Pezoa Rivera and Hammam Riza and Crystal Rugege and Ciar\u00e1n Seoighe and Jerry Sheehan and Haroon Sheikh and Denise Wong and Yi Zeng",
+    "venue": "arXiv preprint arXiv:2501.17805",
+    "citations": 57,
+    "doi": "https://arxiv.org/abs/2501.17805"
+  },
+  {
+    "title": "International scientific report on the safety of advanced ai",
+    "year": 2024,
+    "authors": "B Yohsua and P Daniel and B Tamay and B Rishi and C Stephen and C Yejin and G Danielle and H Hoda and K Leila and L Shayne and M Vasilios and M Mantas and N Kwan Yee and OT Chinasa and R Deborah and S Theodora and T Florian and M Soren",
+    "venue": "Department for Science, Innovation and Technology, Tech. Rep.",
+    "citations": 52,
+    "doi": "https://scholar.google.com/scholar?cluster=8094885629652431772&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Better trees: an empirical study on hyperparameter tuning of classification decision tree induction algorithms",
+    "year": 2024,
+    "authors": "Rafael Gomes Mantovani and Tom\u00e1\u0161 Horv\u00e1th and Andr\u00e9 LD Rossi and Ricardo Cerri and Sylvio Barbon Junior and Joaquin Vanschoren and Andr\u00e9 CPLF de Carvalho",
+    "venue": "Data Mining and Knowledge Discovery",
+    "citations": 40,
+    "doi": "https://link.springer.com/article/10.1007/s10618-024-01002-5"
+  },
+  {
+    "title": "Machine learning concepts applied to oral pathology and oral medicine: a convolutional neural networks' approach",
+    "year": 2023,
+    "authors": "Anna Lu\u00edza Damaceno Ara\u00fajo and Viviane Mariano da Silva and Ma\u00edra Suzuka Kudo and Eduardo Santos Carlos de Souza and Cristina Saldivia\u2010Siracusa and Daniela Giraldo\u2010Rold\u00e1n and Marcio Ajudarte Lopes and Pablo Agustin Vargas and Syed Ali Khurram and Alexander T Pearson and Luiz Paulo Kowalski and Andr\u00e9 Carlos Ponce de Leon Ferreira de Carvalho and Alan Roger Santos\u2010Silva and Matheus Cardoso Moraes",
+    "venue": "N/A",
+    "citations": 32,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jop.13397"
+  }
+]

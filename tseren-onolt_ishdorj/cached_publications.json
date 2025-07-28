@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Dual-clamped one-pot SERS-based biosensors for rapid and sensitive detection of SARS-CoV-2 using portable Raman spectrometer",
+    "year": 2023,
+    "authors": "Kiran Kaladharan and Kuan-Hung Chen and Pin-Han Chen and Venkanagouda S Goudar and Tseren-Onolt Ishdorj and Tuhin Subhra Santra and Fan-Gang Tseng",
+    "venue": "Sensors and Actuators B: Chemical",
+    "citations": 14,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0925400523008870"
+  },
+  {
+    "title": "BIJE: a joint extraction model for biomedical information extraction",
+    "year": 2023,
+    "authors": "Yansen Su and Pengpeng Wang and Shuna Cui and Fei Xu and Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://link.springer.com/chapter/10.1007/978-981-99-4749-2_11"
+  },
+  {
+    "title": "Extraction of Relationship Between Esophageal Cancer and Biomolecules Based on BioBERT",
+    "year": 2023,
+    "authors": "Dayu Tan and Yang Yang and Minglu Wang and Pengpeng Wang and Lejun Zhang and Tseren-Onolt Ishdorj and Yansen Su",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://link.springer.com/chapter/10.1007/978-981-99-4749-2_10"
+  },
+  {
+    "title": "DeepATsers: a deep learning framework for one-pot SERS biosensor to detect SARS-CoV-2 virus",
+    "year": 2025,
+    "authors": "Ankhbayar Nyamdavaa and Kiran Kaladharan and Erdene-Ochir Ganbold and Seungdo Jeong and Seonuck Paek and Yansen Su and Fan-Gang Tseng and Tseren-Onolt Ishdorj",
+    "venue": "Scientific Reports",
+    "citations": 1,
+    "doi": "https://www.nature.com/articles/s41598-025-96557-8"
+  },
+  {
+    "title": "Optimal approximate computation of Euclidean distance in spiking neural P systems framework",
+    "year": 2025,
+    "authors": "Otgonbayar Agvaan and Gordon Cichon and Uuganbaatar Dulamragchaa and Hyun-chul Kim and Seonuck Paek and Tseren-Onolt Ishdorj",
+    "venue": "Scientific Reports",
+    "citations": 0,
+    "doi": "https://www.nature.com/articles/s41598-025-02793-3"
+  },
+  {
+    "title": "An Entity Alignment Model for Echinococcosis Knowledge Graph",
+    "year": 2024,
+    "authors": "Yuan Gao and Lejun Zhang and Fei Xu and Tseren-Onolt Ishdorj and YanSen Su",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://link.springer.com/chapter/10.1007/978-981-97-5678-0_6"
+  },
+  {
+    "title": "MDNNSyn: A Multi-Modal Deep Learning Framework for Drug Synergy Prediction",
+    "year": 2024,
+    "authors": "Lei Li and Haitao Li and Tseren-Onolt Ishdorj and Chunhou Zheng and Yansen Su",
+    "venue": "IEEE Journal of Biomedical and Health Informatics",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10582412/"
+  },
+  {
+    "title": "An Error-Tolerant Serial Binary Full-Adder via a Spiking Neural P System using HP/LP Basic Neurons",
+    "year": "N/A",
+    "authors": "Gordon Cichon and Tseren-Onolt Ishdorj and Otgonnaran Ochirbat and Khuder Altangerel",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "http://media.cichon.com/papers/CMC-2019.pdf"
+  },
+  {
+    "title": "Massively parallel concept for cryptanalysis of RSA in a bio-computation framework",
+    "year": "N/A",
+    "authors": "Gordon Cichon and Galbadrakh Battsogt and Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://webusers.i3s.unice.fr/CMC2024/resources/short/CMC_2024_paper_15.pdf"
+  },
+  {
+    "title": "DATA AUGMENTATION TECHNIQUE WITH SMILES OF DRUGS FOR MASHINE LEARNING",
+    "year": "N/A",
+    "authors": "Ariunaa Uuriintsetseg and Dolgorsuren Batjargal and Tseren-Onolt Ishdorj",
+    "venue": "Institute of Mathematics and Digital Technology Mongolian Academy of Sciences, Mongolia",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=16833609612313142565&hl=en&oi=scholarr"
+  },
+  {
+    "title": "LNCS 12687 Membrane Computing",
+    "year": "N/A",
+    "authors": "Rudolf Freund and Tseren-Onolt Ishdorj and Grzegorz Rozenberg and Arto Salomaa and Claudio Zandron",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://link.springer.com/content/pdf/10.1007/978-3-030-77102-7.pdf"
+  },
+  {
+    "title": "Petri net based cluster and reachability analysis of the heat shock response in eukaryotes",
+    "year": "N/A",
+    "authors": "Tseren-Onolt Ishdorj and Baatarkhuu Enkhtuya",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.academia.edu/download/81456633/template12.pdf"
+  },
+  {
+    "title": "Inhibiting/De-inhibiting P Systems with Active Membranes",
+    "year": "N/A",
+    "authors": "Mihai Ionescu and Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=16463586448716446058&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Rule-Based Modelling Framework: Cellucidate Beta Exercises, 19 March, 2008",
+    "year": "N/A",
+    "authors": "R Back and I Petre and TO Ishdorj and V Preoteasa",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "http://users.abo.fi/backrj/RuleBaseModels/material/KappAssignments_I.pdf"
+  },
+  {
+    "title": "Leporati, Alberto 344 Lucanu, Dorel 126 Manca, Vincenzo 63 Margenstern, Maurice 1, 161",
+    "year": "N/A",
+    "authors": "Giancarlo Mauri and Luca Bianco and Matteo Cavaliere and Rodica Ceterchi and Gabriel Ciobanu and Lo\u0131c Colson and Andr\u00e9s Cord\u00f3n-Franco and Erzs\u00e9bet Csuhaj-Varj\u00fa and Federico Fontana and Rudolf Freund and Marian Gheorghe and Miguel A Guti\u00e9rrez-Naranjo and Mihai Ionescu and Tseren-Onolt Ishdorj and Nata\u0161a Jonoska and Norio Kato and Petros Kefalas and Marion Oswald and Andrei Paun and Mario J P\u00e9rez-Jim\u00e9nez and Agust\u0131n Riscos-N\u00fanez and Vladimir Rogozhin and Yurii Rogozhin and Francisco Jos\u00e9 Romero-Campero and Fernando Sancho-Caparrini and Dragos Sburlan and Ioanna Stamatopoulou and Kazunori Ueda and Gy\u00f6rgy Vaszil and Sergey Verlan",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=194685447106979992&hl=en&oi=scholarr"
+  }
+]

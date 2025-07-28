@@ -10,6 +10,9 @@ from scholarly import scholarly
 import sys
 
 
+
+
+
 # ---------- CONFIG ----------
 UNPAYWALL_EMAIL = "adeniyiebenezer33@gmail.com"
 DEBUG_MODE = True
@@ -27,6 +30,12 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s',
     level=logging.INFO
 )
+
+PROCESSED_FILE = os.path.join(OUTPUT_DIR, "processed_authors.txt")
+processed_authors = set()
+if os.path.exists(PROCESSED_FILE):
+    with open(PROCESSED_FILE, "r") as f:
+        processed_authors = set(line.strip() for line in f)
 
 
 # NEW – filter switch
@@ -555,36 +564,36 @@ capacity_building_keywords = [
 # ----------AI4PEP AUTHOR DICTIONARY ----------
 author_dict = {
     #"Jude Dzevela Kong": "dPAVmL0AAAAJ",
-    "Denis Nkweteyim":"4UR2BucAAAAJ",
-    "Gelan Ayana":"bNK6lMoAAAAJ",
-    "Kingsley Badu": "de6nT0EAAAAJ",
-    "Evelyn Kissi": "ZsuY1NsAAAAJ",
-    "Rachel Gorman": "6VcJPOEAAAAJ",
-    "Sylvain Landry Faye": "B6hMjn4AAAAJ",
+    # "Denis Nkweteyim":"4UR2BucAAAAJ",
+    # "Gelan Ayana":"bNK6lMoAAAAJ",
+    # "Kingsley Badu": "de6nT0EAAAAJ",
+    # "Evelyn Kissi": "ZsuY1NsAAAAJ",
+    # "Rachel Gorman": "6VcJPOEAAAAJ",
+    # "Sylvain Landry Faye": "B6hMjn4AAAAJ",
     # "Bruce Mellado": "BTJnR0UAAAAJ" #not done
-    "Adesina Simon Sodiya": "iNnkbzgAAAAJ",
-    "Riris Andono Ahmad": "H3T6XqcAAAAJ",
-     "Serge Demidenko": "0DcFUWkAAAAJ",
-     "Romulo de Castro": "Hi5-8lwAAAAJ",
-     "Tseren-Onolt Ishdorj": "0WHrk08AAAAJ",
-     "Andre de Carvalho": "Jx_5GrgAAAAJ",
-     "Manuel Colome": "aKZ8i6IAAAAJ",
-     "Cesar Ugarte-Gil": "oMSZ_EgAAAAJ",
-     "Simon Anderson": "eVPe_kAAAAAJ",
-     "Radwan Qasrawi": "eVPe_kAAAAAJ",
-     "Elie Sokhn": "xPIHn-MAAAAJ",
-     "Yahya Tayalati": "MuR6AzYAAAAJ",
-     "Sadri Znaidi": "qNuluioAAAAJ",
-     "Franklin Asiedu-Bekoe": "nLQtW2kAAAAJ",
-     "Michael Owusu": "IPTvRYcAAAAJ",
-     "Christo El Morr": "X58b2IAAAAJ",
-     "Collins Adu": "0ujYGxoAAAAJ",
-     "Rose-Mary Owusuaa Mensah Gyening": "pLbPQXkAAAAJ",
+    # "Adesina Simon Sodiya": "iNnkbzgAAAAJ",
+    # "Riris Andono Ahmad": "H3T6XqcAAAAJ",
+     # "Serge Demidenko": "0DcFUWkAAAAJ",
+     # "Romulo de Castro": "Hi5-8lwAAAAJ",
+     # "Tseren-Onolt Ishdorj": "0WHrk08AAAAJ",
+     # "Andre de Carvalho": "Jx_5GrgAAAAJ",
+     # "Manuel Colome": "aKZ8i6IAAAAJ",
+     # "Cesar Ugarte-Gil": "oMSZ_EgAAAAJ",
+     # "Simon Anderson": "eVPe_kAAAAAJ",
+     # "Radwan Qasrawi": "eVPe_kAAAAAJ",
+     # "Elie Sokhn": "xPIHn-MAAAAJ",
+     # "Yahya Tayalati": "MuR6AzYAAAAJ",
+      "Sadri Znaidi": "qNuluioAAAAJ",
+      "Franklin Asiedu-Bekoe": "nLQtW2kAAAAJ",
+      "Michael Owusu": "IPTvRYcAAAAJ",
+      "Christo El Morr": "X58b2IAAAAJ",
+      "Collins Adu": "0ujYGxoAAAAJ",
+      "Rose-Mary Owusuaa Mensah Gyening": "pLbPQXkAAAAJ",
      "Jerry Kponyoh": "feQo2zYAAAAJ",
-     "Peter Haddawy": "lovm5cAAAAAJ",
-     "Rudith King": "eZs2YKwAAAAJ",
-     "Anuwat Wiratsudakul": "wfovEncAAAAJ",
-     "Gideon Anapey": "12TF5uEAAAAJ",
+      "Peter Haddawy": "lovm5cAAAAAJ",
+      "Rudith King": "eZs2YKwAAAAJ",
+      "Anuwat Wiratsudakul": "wfovEncAAAAJ",
+      "Gideon Anapey": "12TF5uEAAAAJ",
      "Dolvara Gunatilaka": "b8LUlLkAAAAJ",
      "Augustina Sylverken": "i4W1CtsAAAAJ",
      "Saranath Lawpoolsri": "ycuPRikAAAAJ",
@@ -614,49 +623,33 @@ author_dict = {
 }
 
 # ---------- EXECUTION ----------
-try:
-    batch_number = 0
-    for arg in sys.argv[1:]:
-        if arg.isdigit():
-            batch_number = int(arg)
-            break
+for author_name, user_id in author_dict.items():
+    if author_name in processed_authors:
+        print(f"⏭️ Skipping {author_name}, already processed.")
+        continue
 
-    BATCH_SIZE = 10
-    all_authors = list(author_dict.items())
-    TOTAL_BATCHES = (len(all_authors) + BATCH_SIZE - 1) // BATCH_SIZE
-
-    if batch_number >= TOTAL_BATCHES:
-        print(f"❌ Batch number {batch_number} exceeds total batches ({TOTAL_BATCHES}). Exiting.")
-        sys.exit(1)
-
-    start_idx = batch_number * BATCH_SIZE
-    end_idx = start_idx + BATCH_SIZE
-    batch_authors = all_authors[start_idx:end_idx]
-
-    print(f"📦 Running batch {batch_number + 1}/{TOTAL_BATCHES} with {len(batch_authors)} authors...\n")
-
-    for author_name, user_id in batch_authors:
-        print(f"🔍 Retrieving data for {author_name}...")
+    print(f"🔍 Retrieving data for {author_name}...")
+    profile, _ = None, None
+    try:
         profile, _ = get_author_by_user_id(user_id)
+    except Exception as e:
+        print(f"❌ Error retrieving profile for {author_name}: {e}")
+        logging.error(f"Profile fetch failed for {author_name}: {e}")
+        continue
 
-        if profile:
-            works = get_scholar_publications(profile)
+    if profile:
+        works = get_scholar_publications(profile)
+        try:
             process_author(author_name, profile, works)
-            time.sleep(random.uniform(10, 15))
-        else:
-            print(f"❌ Could not retrieve profile for {author_name}. Stopping batch.")
-            logging.error(f"Failed to retrieve author profile for {author_name}. Terminating execution.")
-            sys.exit(1)
+            with open(PROCESSED_FILE, "a") as f:
+                f.write(author_name + "\n")
+        except Exception as e:
+            print(f"⚠️ Error processing {author_name}: {e}")
+            logging.error(f"Processing error for {author_name}: {e}")
+    else:
+        print(f"❌ Could not retrieve profile for {author_name}. Skipping.")
+        logging.error(f"Failed to retrieve author profile for {author_name}. Skipping.")
 
-    print("🎉 Batch finished. Check your output folders.")
+    time.sleep(random.uniform(10, 15))
 
-except Exception as e:
-    print("🚨 Fatal error during execution.")
-    logging.error(f"Unhandled exception: {e}")
-    if "scholarly" in str(e).lower() or isinstance(e, ConnectionError):
-        print("⚠️ Google Scholar may be down or blocked.")
-        print("💡 Tips:")
-        print("- Check your internet connection or proxy (e.g., Tor or VPN).")
-        print("- Try again later.")
-        print("- Or switch to OpenAlex or Crossref for publication data.")
-    raise
+print("🎉 All authors processed.")
