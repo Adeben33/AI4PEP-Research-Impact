@@ -1,61 +1,50 @@
-#name: 🔁 Research Impact Batches
-#
-#on:
-#  schedule:
-#    - cron: '0 0 * * *'
-#    - cron: '0 2 * * *'
-#    - cron: '0 4 * * *'
-#    - cron: '0 6 * * *'
-#    - cron: '0 8 * * *'
-#    - cron: '0 10 * * *'
-#    - cron: '0 12 * * *'
-#    - cron: '0 14 * * *'
-#    - cron: '0 16 * * *'
-#    - cron: '0 18 * * *'
-#    - cron: '0 20 * * *'
-#    - cron: '0 22 * * *'
-#  workflow_dispatch:  # Allow manual trigger
-#
-#permissions:
-#  contents: write
-#
-#jobs:
-#  update-impact-data:
-#    runs-on: ubuntu-latest
-#    continue-on-error: true
-#    strategy:
-#      matrix:
-#        batch_number: [0, 1, 2]  # Adjust depending on total authors
-#
-#    steps:
-#      - name: 📥 Checkout Repository
-#        uses: actions/checkout@v3
-#
-#      - name: 🐍 Set up Python
-#        uses: actions/setup-python@v4
-#        with:
-#          python-version: '3.11'
-#
-#      - name: 📦 Install Dependencies
-#        run: pip install -r requirements.txt
-#
-#      - name: 🧠 Run Research Impact Script (Batch ${{ matrix.batch_number }})
-#        run: python research_impact.py ${{ matrix.batch_number }}
-#
-#      - name: 📤 Commit & Push Updated Files
-#        run: |
-#          git config user.name "github-actions[bot]"
-#          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-#
-#          git add .
-#          git commit -m "🔁 Batch ${{ matrix.batch_number }} update: $(date -u '+%Y-%m-%d %H:%M')" || echo "No changes to commit"
-#
-#          if ! git diff-index --quiet HEAD; then
-#            echo "Changes detected after commit, proceeding with push."
-#            git stash
-#            git pull --rebase origin main || echo "Nothing to rebase"
-#            git stash pop || echo "Nothing to pop"
-#            git push || echo "Push failed, but continuing workflow"
-#          else
-#            echo "No new changes to push."
-#          fi
+name: 🔁 Research Impact Full Run
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+    - cron: '0 6 * * *'
+    - cron: '0 12 * * *'
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-impact-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: 🧠 Run Full Research Impact Script
+        run: |
+          python research_impact_no_batches.py || echo "⚠️ Script encountered errors but continuing to commit results."
+
+      - name: 📤 Commit & Push Updated Files (even if script failed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .
+          git commit -m "🔁 Partial/full run update: $(date -u '+%Y-%m-%d %H:%M')" || echo "No changes to commit"
+
+          if ! git diff-index --quiet HEAD; then
+            echo "Changes detected, pushing to main..."
+            git stash
+            git pull --rebase origin main || echo "Nothing to rebase"
+            git stash pop || echo "Nothing to pop"
+            git push || echo "Push failed, but workflow continues"
+          else
+            echo "✅ No new changes to push."
+          fi
